@@ -4,7 +4,7 @@ title: "Licenses"
 
 ## Instructional Material
 
-All Carpentries (Software Carpentry, Data Carpentry, and Library Carpentry)
+This
 instructional material is made available under the [Creative Commons
 Attribution license][cc-by-human]. The following is a human-readable summary of
 (and not a substitute for) the [full legal text of the CC BY 4.0
@@ -22,9 +22,8 @@ terms.
 
 Under the following terms:
 
-- **Attribution**---You must give appropriate credit (mentioning that your work
-  is derived from work that is Copyright (c) The Carpentries and, where
-  practical, linking to <https://carpentries.org/>), provide a [link to the
+- **Attribution**---You must give appropriate credit (including attribution to the authors),
+  provide a [link to the
   license][cc-by-human], and indicate if changes were made. You may do so in
   any reasonable manner, but not in any way that suggests the licensor endorses
   you or your use.
@@ -44,8 +43,13 @@ Notices:
 
 ## Software
 
+The template used for this material,
+including this license,
+is that provided by [The Carpentries][carpentries],
+under this license.
+
 Except where otherwise noted, the example programs and other software provided
-by The Carpentries are made available under the [OSI][osi]-approved [MIT
+are made available under the [OSI][osi]-approved [MIT
 license][mit-license].
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
@@ -66,14 +70,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-## Trademark
-
-"The Carpentries", "Software Carpentry", "Data Carpentry", and "Library
-Carpentry" and their respective logos are registered trademarks of [The Carpentries Inc][the-carpentries].
-
+[carpentries]: https://carpentries.org
 [cc-by-human]: https://creativecommons.org/licenses/by/4.0/
 [cc-by-legal]: https://creativecommons.org/licenses/by/4.0/legalcode
 [mit-license]: https://opensource.org/licenses/mit-license.html
 [ci]: https://communityin.org/
 [osi]: https://opensource.org
-[the-carpentries]: https://carpentries.org

@@ -1,8 +1,9 @@
 ## Contributing
 
-[The Carpentries][cp-site] ([Software Carpentry][swc-site], [Data
-Carpentry][dc-site], and [Library Carpentry][lc-site]) are open source
-projects, and we welcome contributions of all kinds: new lessons, fixes to
+[ILDG][ildg] is an open source project,
+and we welcome contributions of all kinds:
+new lessons,
+fixes to
 existing material, bug reports, and reviews of proposed changes are all
 welcome.
 
@@ -11,7 +12,7 @@ welcome.
 By contributing, you agree that we may redistribute your work under [our
 license](LICENSE.md). In exchange, we will address your issues and/or assess
 your change proposal as promptly as we can, and help you become a member of our
-community. Everyone involved in [The Carpentries][cp-site] agrees to abide by
+community. Everyone involved in [ILDG][ildg] agrees to abide by
 our [code of conduct](CODE_OF_CONDUCT.md).
 
 ### How to Contribute
@@ -49,9 +50,6 @@ documentation][template-doc].
 There are many ways to contribute, from writing new exercises and improving
 existing ones to updating or filling in the documentation and submitting [bug
 reports][issues] about things that do not work, are not clear, or are missing.
-If you are looking for ideas, please see [the list of issues for this
-repository][repo-issues], or the issues for [Data Carpentry][dc-issues],
-[Library Carpentry][lc-issues], and [Software Carpentry][swc-issues] projects.
 
 Comments on issues and reviews of pull requests are just as welcome: we are
 smarter together than we are on our own. **Reviews from novices and newcomers
@@ -95,29 +93,16 @@ final say over what gets merged into the lesson.
 
 ### Other Resources
 
-The Carpentries is a global organisation with volunteers and learners all over
-the world. We share values of inclusivity and a passion for sharing knowledge,
-teaching and learning. There are several ways to connect with The Carpentries
-community listed at <https://carpentries.org/connect/> including via social
-media, slack, newsletters, and email lists. You can also [reach us by
-email][contact].
+ILDG is a global organisation with volunteers and learners all over
+the world.
+There are several ways to connect with the ILDG
+community 
 
-[repo]: https://example.com/FIXME
-[repo-issues]: https://example.com/FIXME/issues
-[contact]: mailto:team@carpentries.org
-[cp-site]: https://carpentries.org/
-[dc-issues]: https://github.com/issues?q=user%3Adatacarpentry
-[dc-lessons]: https://datacarpentry.org/lessons/
-[dc-site]: https://datacarpentry.org/
-[discuss-list]: https://carpentries.topicbox.com/groups/discuss
+[repo]: https://github.com/edbennett/ildg-handson
+[repo-issues]: https://example.com/edbennett/ildg-handson
+[contact]: mailto:e.j.bennett@swansea.ac.uk
 [github]: https://github.com
 [github-flow]: https://guides.github.com/introduction/flow/
 [github-join]: https://github.com/join
 [how-contribute]: https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github
-[issues]: https://carpentries.org/help-wanted-issues/
-[lc-issues]: https://github.com/issues?q=user%3ALibraryCarpentry
-[swc-issues]: https://github.com/issues?q=user%3Aswcarpentry
-[swc-lessons]: https://software-carpentry.org/lessons/
-[swc-site]: https://software-carpentry.org/
-[lc-site]: https://librarycarpentry.org/
 [template-doc]: https://carpentries.github.io/workbench/

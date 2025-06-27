@@ -13,10 +13,15 @@ message: >-
   training material.
 type: dataset
 authors:
-  - given-names: FIXME
-    family-names: FIXME
+  - given-names: Ed
+    family-names: Bennett
 abstract: >-
-  FIXME Replace this with a short abstract describing the
-  lesson, e.g. its target audience and main intended
-  learning objectives.
+  Introductory workshop on using services of
+  the International Lattice Data Grid.
+  On completion of this workshop,
+  learners will be able to browse,
+  query,
+  download ensembles from,
+  and upload ensembles to,
+  ILDG-compatible services.
 license: CC-BY-4.0
